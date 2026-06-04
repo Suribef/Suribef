@@ -46,3 +46,4 @@ equipo donde pueda aportar desde el primer día y seguir creciendo técnicamente
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-urifre)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suribef2200@gmail.com)
+![Open to work](https://img.shields.io/badge/Open%20to%20work-green?style=for-the-badge)
