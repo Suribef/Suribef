@@ -39,8 +39,8 @@ to full-stack web development and database design.
 | [Don Shampoo — Multi-Branch POS](#) | Multi-branch POS with centralized inventory management. 10+ concurrent users with real-time updates | React · Vite · Supabase · TanStack Query | ✅ Completed |
 | [Data Metrics Dashboard](#) | Processes ~40K records/session. Deduplication, multi-profile filtering, adaptive xlsx schema engine — no backend | React · JavaScript · CSS3 | ✅ Completed |
 | [Arithmetic Compiler](https://github.com/Suribef/compilador-aritmetico) | Full compiler pipeline: lexical analysis, recursive descent parser, AST, executable code gen | C++ | ✅ Completed |
-| [Dolce y Chile & Argos CMVet](#) | Two freelance client websites with custom admin panels and Supabase-backed CMS | React · Supabase · JavaScript | ✅ Completed |
-| [ArmyForce — Gym Tracker](#) | Web + mobile app for gym routine tracking, session logs, and multi-user progress management | React · Supabase · TanStack Query | 🚧 In progress |
+| [Dolce y Chile & Argos CMVet](#) | Two freelance client websites with custom admin panels and Supabase-backed CMS | React · Supabase · JavaScript | 🚧 In progress |
+| [ArmyForce — Gym Tracker](https://suribef.github.io/army-force-mockup/) | Web + mobile app for gym routine tracking, session logs, and multi-user progress management | React · Supabase · TanStack Query | 🚧 In progress |
 
 ---
 
